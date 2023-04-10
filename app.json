@@ -1,0 +1,12 @@
+{
+  "name": "atinado",
+  "expo": {
+    "name": "atinado",
+    "slug": "atinado",
+    "extra": {
+      "eas": {
+        "projectId": "ca945142-086f-4b32-b065-2eb52d512fd8"
+      }
+    }
+  }
+}
