@@ -1,12 +1,23 @@
 {
-  "name": "atinado",
   "expo": {
     "name": "atinado",
     "slug": "atinado",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "extra": {
       "eas": {
         "projectId": "ca945142-086f-4b32-b065-2eb52d512fd8"
       }
+    },
+    "ios": {
+      "supportsTablet": "true",
+      "bundleIdentifier": "com.atinado"
+    },
+    "android": {
+      "package": "com.atinado"
     }
   }
 }

@@ -1,5 +1,5 @@
 import React from 'react';
-import {createStackNavigator} from '@react-navigation/stack';
+import { createStackNavigator } from '@react-navigation/native-stack';
 
 const Stack = createStackNavigator();
 
@@ -25,7 +25,7 @@ import Sobre from './pages/Sobre';
 import Anuncie from './pages/Anuncie';
 import Trabalho from './pages/Trabalho';
 
-export default function Routes() {
+export default function Routes () {
   return (
     <Stack.Navigator
       initialRouteName="Cutucadas"
